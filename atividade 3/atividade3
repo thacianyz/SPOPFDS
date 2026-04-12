@@ -3,7 +3,9 @@
 ## Sequência introdutória
 
 ### 1.
+```bash
 git commit; git commit
+```
 
 ### 2.
 git branch bugFix; git checkout bug 
