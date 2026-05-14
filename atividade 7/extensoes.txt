@@ -1,0 +1,10 @@
+Prettier - Code formatter
+ESLint
+Live Server
+Auto Rename Tag
+Path Intellisense
+GitLens
+ES7+ React/Redux/React-Native snippets
+Tailwind CSS IntelliSense
+Material Icon Theme
+One Dark Pro
